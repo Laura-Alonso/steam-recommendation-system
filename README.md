@@ -17,36 +17,6 @@ The system explores three approaches:
 
 ---
 
-## **Repository Structure**
-
-**system_recommendation_steam/**
-
-**notebooks/**
-│
-├── 01_information.ipynb
-├── 02_preprocessing.ipynb
-├── 03_eda.ipynb
-├── 04_feature_engineering.ipynb
-├── 05_prepare_data.ipynb
-├── 06_base_model.ipynb
-├── 07_content_filtering.ipynb
-├── 08_collaborative_filtering.ipynb
-├── 09_hybrid.ipynb
-└── 10_evaluation.ipynb
-
-**src/**
-├── evaluation_functions.py
-├── recommendation_functions.py
-└── recommender_utils.py
-
-**reports/**
-HTML exports of the notebooks for quick visualization
-
-**docs/**
-TFM_Alonso_Gil_Laura.pdf
-
----
-
 ## **Dataset**
 
 Steam video game dataset containing:
